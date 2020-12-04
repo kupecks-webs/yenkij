@@ -11,3 +11,9 @@ body {
     transform: translate(-50%, -50%);
     text-align: center;
 }
+h1 {
+    font-size: 70px;
+}
+p {
+    font-size: 25px;
+}
